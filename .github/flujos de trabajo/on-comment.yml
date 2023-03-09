@@ -1,4 +1,4 @@
-name: On Comment
+Andrés Miranda 
 on:
   issue_comment:
     types: [created]
